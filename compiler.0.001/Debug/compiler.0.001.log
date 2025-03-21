@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Honor\source\repos\compil\compiler - source\compiler.0.027\compiler.0.001\Lexer.h(669,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Honor\source\repos\compil\compiler - source\compiler.0.027\compiler.0.001\AST.h(83,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Honor\source\repos\compil\compiler - source\compiler.0.027\compiler.0.001\Parser.h(74): warning C4715: parser::code: значение возвращается не при всех путях выполнения
+C:\Users\Honor\source\repos\compil\compiler - source\compiler.0.027\compiler.0.001\Hex_code_table.h(96): warning C4715: hex_code_table::to_hex: значение возвращается не при всех путях выполнения
+C:\Users\Honor\source\repos\compil\compiler - source\compiler.0.027\compiler.0.001\Parser.h(235): warning C4715: parser::operation: значение возвращается не при всех путях выполнения
+C:\Users\Honor\source\repos\compil\compiler - source\compiler.0.027\compiler.0.001\Parser.h(415): warning C4715: parser::first_condit: значение возвращается не при всех путях выполнения
+  compiler.0.001.vcxproj -> C:\Users\Honor\source\repos\compil\compiler - source\compiler.0.027\Debug\compiler.0.001.exe
